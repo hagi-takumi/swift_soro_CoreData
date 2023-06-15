@@ -1,0 +1,2 @@
+# swift_soro_CoreData
+Todo３つ目CoreData版
